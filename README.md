@@ -1,2 +1,8 @@
-# Snake-python
+Snake-python
+=========
+
 A snake game made with cocos-2d
+
+**Snapshot**
+
+[!snapshot]()
