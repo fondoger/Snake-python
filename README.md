@@ -5,4 +5,4 @@ A snake game made with cocos-2d
 
 **Snapshot**
 
-[!snapshot]()
+[!snapshot](https://raw.githubusercontent.com/fondoger/Snake-python/master/snapshot.png)
